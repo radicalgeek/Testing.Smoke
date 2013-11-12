@@ -1,6 +1,5 @@
 ﻿using System.IO;
 using System.Reflection;
-using ConfigurationTests;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace RadicalGeek.Testing.Smoke.ConfigurationTests.Tests.Unit

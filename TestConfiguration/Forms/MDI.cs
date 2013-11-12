@@ -2,7 +2,6 @@
 using System.IO;
 using System.Text;
 using System.Windows.Forms;
-using ConfigurationTests;
 using System.Linq;
 using RadicalGeek.Common.Xml;
 using RadicalGeek.Testing.Smoke.ConfigurationTests;

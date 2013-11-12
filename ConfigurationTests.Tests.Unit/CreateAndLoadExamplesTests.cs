@@ -1,6 +1,5 @@
 ﻿using System.IO;
 using System.Text;
-using ConfigurationTests;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using RadicalGeek.Common.Xml;
 

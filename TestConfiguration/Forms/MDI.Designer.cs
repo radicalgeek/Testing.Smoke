@@ -75,7 +75,7 @@
             // tsbNewConfiguration
             // 
             this.tsbNewConfiguration.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.tsbNewConfiguration.Image = global::TestConfiguration.Properties.Resources._10;
+            this.tsbNewConfiguration.Image = global::RadicalGeek.Testing.Smoke.TestConfiguration.Properties.Resources._10;
             this.tsbNewConfiguration.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.tsbNewConfiguration.Name = "tsbNewConfiguration";
             this.tsbNewConfiguration.Size = new System.Drawing.Size(52, 52);
@@ -85,7 +85,7 @@
             // tsbNewConfigurationWithTemplate
             // 
             this.tsbNewConfigurationWithTemplate.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.tsbNewConfigurationWithTemplate.Image = global::TestConfiguration.Properties.Resources._09;
+            this.tsbNewConfigurationWithTemplate.Image = global::RadicalGeek.Testing.Smoke.TestConfiguration.Properties.Resources._09;
             this.tsbNewConfigurationWithTemplate.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.tsbNewConfigurationWithTemplate.Name = "tsbNewConfigurationWithTemplate";
             this.tsbNewConfigurationWithTemplate.Size = new System.Drawing.Size(52, 52);
@@ -100,7 +100,7 @@
             // tsbOpenConfigurationFile
             // 
             this.tsbOpenConfigurationFile.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.tsbOpenConfigurationFile.Image = global::TestConfiguration.Properties.Resources._11;
+            this.tsbOpenConfigurationFile.Image = global::RadicalGeek.Testing.Smoke.TestConfiguration.Properties.Resources._11;
             this.tsbOpenConfigurationFile.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.tsbOpenConfigurationFile.Name = "tsbOpenConfigurationFile";
             this.tsbOpenConfigurationFile.Size = new System.Drawing.Size(52, 52);
@@ -133,7 +133,7 @@
             // 
             // mnuNewConfiguration
             // 
-            this.mnuNewConfiguration.Image = global::TestConfiguration.Properties.Resources._10;
+            this.mnuNewConfiguration.Image = global::RadicalGeek.Testing.Smoke.TestConfiguration.Properties.Resources._10;
             this.mnuNewConfiguration.Name = "mnuNewConfiguration";
             this.mnuNewConfiguration.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.N)));
             this.mnuNewConfiguration.Size = new System.Drawing.Size(340, 22);
@@ -142,7 +142,7 @@
             // 
             // mnuNewConfigurationWithTemplate
             // 
-            this.mnuNewConfigurationWithTemplate.Image = global::TestConfiguration.Properties.Resources._09;
+            this.mnuNewConfigurationWithTemplate.Image = global::RadicalGeek.Testing.Smoke.TestConfiguration.Properties.Resources._09;
             this.mnuNewConfigurationWithTemplate.Name = "mnuNewConfigurationWithTemplate";
             this.mnuNewConfigurationWithTemplate.ShortcutKeys = ((System.Windows.Forms.Keys)(((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.Shift) 
             | System.Windows.Forms.Keys.N)));
@@ -157,7 +157,7 @@
             // 
             // mnuOpenConfigurationFile
             // 
-            this.mnuOpenConfigurationFile.Image = global::TestConfiguration.Properties.Resources._11;
+            this.mnuOpenConfigurationFile.Image = global::RadicalGeek.Testing.Smoke.TestConfiguration.Properties.Resources._11;
             this.mnuOpenConfigurationFile.Name = "mnuOpenConfigurationFile";
             this.mnuOpenConfigurationFile.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.O)));
             this.mnuOpenConfigurationFile.Size = new System.Drawing.Size(340, 22);

@@ -430,7 +430,7 @@
             // toolStripButton1
             // 
             this.toolStripButton1.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.toolStripButton1.Image = global::TestConfiguration.Properties.Resources._14;
+            this.toolStripButton1.Image = global::RadicalGeek.Testing.Smoke.TestConfiguration.Properties.Resources._14;
             this.toolStripButton1.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.toolStripButton1.Name = "toolStripButton1";
             this.toolStripButton1.Size = new System.Drawing.Size(23, 22);
@@ -463,7 +463,7 @@
             // 
             // mnuRemoveAllTests
             // 
-            this.mnuRemoveAllTests.Image = global::TestConfiguration.Properties.Resources._13;
+            this.mnuRemoveAllTests.Image = global::RadicalGeek.Testing.Smoke.TestConfiguration.Properties.Resources._13;
             this.mnuRemoveAllTests.Name = "mnuRemoveAllTests";
             this.mnuRemoveAllTests.Size = new System.Drawing.Size(164, 22);
             this.mnuRemoveAllTests.Text = "Remove All Tests";
@@ -471,7 +471,7 @@
             // 
             // mnuMoveUp
             // 
-            this.mnuMoveUp.Image = global::TestConfiguration.Properties.Resources._16;
+            this.mnuMoveUp.Image = global::RadicalGeek.Testing.Smoke.TestConfiguration.Properties.Resources._16;
             this.mnuMoveUp.Name = "mnuMoveUp";
             this.mnuMoveUp.Size = new System.Drawing.Size(164, 22);
             this.mnuMoveUp.Tag = "up";
@@ -480,7 +480,7 @@
             // 
             // mnuMoveDown
             // 
-            this.mnuMoveDown.Image = global::TestConfiguration.Properties.Resources._15;
+            this.mnuMoveDown.Image = global::RadicalGeek.Testing.Smoke.TestConfiguration.Properties.Resources._15;
             this.mnuMoveDown.Name = "mnuMoveDown";
             this.mnuMoveDown.Size = new System.Drawing.Size(164, 22);
             this.mnuMoveDown.Tag = "down";
@@ -489,7 +489,7 @@
             // 
             // mnuRunSelectedTest
             // 
-            this.mnuRunSelectedTest.Image = global::TestConfiguration.Properties.Resources._07;
+            this.mnuRunSelectedTest.Image = global::RadicalGeek.Testing.Smoke.TestConfiguration.Properties.Resources._07;
             this.mnuRunSelectedTest.Name = "mnuRunSelectedTest";
             this.mnuRunSelectedTest.Size = new System.Drawing.Size(164, 22);
             this.mnuRunSelectedTest.Text = "Run";
@@ -497,7 +497,7 @@
             // 
             // mnuRunAllTests
             // 
-            this.mnuRunAllTests.Image = global::TestConfiguration.Properties.Resources._08;
+            this.mnuRunAllTests.Image = global::RadicalGeek.Testing.Smoke.TestConfiguration.Properties.Resources._08;
             this.mnuRunAllTests.Name = "mnuRunAllTests";
             this.mnuRunAllTests.Size = new System.Drawing.Size(164, 22);
             this.mnuRunAllTests.Text = "Run All";
@@ -506,7 +506,7 @@
             // tsbTests
             // 
             this.tsbTests.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.tsbTests.Image = global::TestConfiguration.Properties.Resources._04;
+            this.tsbTests.Image = global::RadicalGeek.Testing.Smoke.TestConfiguration.Properties.Resources._04;
             this.tsbTests.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.tsbTests.Name = "tsbTests";
             this.tsbTests.Size = new System.Drawing.Size(29, 22);
@@ -520,7 +520,7 @@
             this.mnuSaveAs,
             this.toolStripSeparator1,
             this.mnuSaveAndRun});
-            this.tsbSave.Image = global::TestConfiguration.Properties.Resources._06;
+            this.tsbSave.Image = global::RadicalGeek.Testing.Smoke.TestConfiguration.Properties.Resources._06;
             this.tsbSave.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.tsbSave.Name = "tsbSave";
             this.tsbSave.Size = new System.Drawing.Size(32, 22);
@@ -556,7 +556,7 @@
             // tsbRunSelectedTest01
             // 
             this.tsbRunSelectedTest01.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.tsbRunSelectedTest01.Image = global::TestConfiguration.Properties.Resources._07;
+            this.tsbRunSelectedTest01.Image = global::RadicalGeek.Testing.Smoke.TestConfiguration.Properties.Resources._07;
             this.tsbRunSelectedTest01.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.tsbRunSelectedTest01.Name = "tsbRunSelectedTest01";
             this.tsbRunSelectedTest01.Size = new System.Drawing.Size(23, 22);
@@ -566,7 +566,7 @@
             // tsbRunAllTests01
             // 
             this.tsbRunAllTests01.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.tsbRunAllTests01.Image = global::TestConfiguration.Properties.Resources._08;
+            this.tsbRunAllTests01.Image = global::RadicalGeek.Testing.Smoke.TestConfiguration.Properties.Resources._08;
             this.tsbRunAllTests01.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.tsbRunAllTests01.Name = "tsbRunAllTests01";
             this.tsbRunAllTests01.Size = new System.Drawing.Size(23, 22);
@@ -576,7 +576,7 @@
             // tsbRemoveTest01
             // 
             this.tsbRemoveTest01.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.tsbRemoveTest01.Image = global::TestConfiguration.Properties.Resources._14;
+            this.tsbRemoveTest01.Image = global::RadicalGeek.Testing.Smoke.TestConfiguration.Properties.Resources._14;
             this.tsbRemoveTest01.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.tsbRemoveTest01.Name = "tsbRemoveTest01";
             this.tsbRemoveTest01.Size = new System.Drawing.Size(23, 22);
@@ -586,7 +586,7 @@
             // tsbRemoveAllTests01
             // 
             this.tsbRemoveAllTests01.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.tsbRemoveAllTests01.Image = global::TestConfiguration.Properties.Resources._13;
+            this.tsbRemoveAllTests01.Image = global::RadicalGeek.Testing.Smoke.TestConfiguration.Properties.Resources._13;
             this.tsbRemoveAllTests01.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.tsbRemoveAllTests01.Name = "tsbRemoveAllTests01";
             this.tsbRemoveAllTests01.Size = new System.Drawing.Size(23, 22);
@@ -596,7 +596,7 @@
             // tsbRunSelectedTest02
             // 
             this.tsbRunSelectedTest02.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.tsbRunSelectedTest02.Image = global::TestConfiguration.Properties.Resources._07;
+            this.tsbRunSelectedTest02.Image = global::RadicalGeek.Testing.Smoke.TestConfiguration.Properties.Resources._07;
             this.tsbRunSelectedTest02.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.tsbRunSelectedTest02.Name = "tsbRunSelectedTest02";
             this.tsbRunSelectedTest02.Size = new System.Drawing.Size(23, 22);
@@ -606,7 +606,7 @@
             // tsbRunAllTests02
             // 
             this.tsbRunAllTests02.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.tsbRunAllTests02.Image = global::TestConfiguration.Properties.Resources._08;
+            this.tsbRunAllTests02.Image = global::RadicalGeek.Testing.Smoke.TestConfiguration.Properties.Resources._08;
             this.tsbRunAllTests02.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.tsbRunAllTests02.Name = "tsbRunAllTests02";
             this.tsbRunAllTests02.Size = new System.Drawing.Size(23, 22);
@@ -616,7 +616,7 @@
             // toolStripButton2
             // 
             this.toolStripButton2.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.toolStripButton2.Image = global::TestConfiguration.Properties.Resources._13;
+            this.toolStripButton2.Image = global::RadicalGeek.Testing.Smoke.TestConfiguration.Properties.Resources._13;
             this.toolStripButton2.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.toolStripButton2.Name = "toolStripButton2";
             this.toolStripButton2.Size = new System.Drawing.Size(23, 22);

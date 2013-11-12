@@ -3,7 +3,6 @@ using System.IO;
 using System.Linq;
 using System.Reflection;
 using System.Text;
-using ConfigurationTests;
 using RadicalGeek.Common.Xml;
 using RadicalGeek.Testing.Smoke.ConfigurationTests;
 using RadicalGeek.Testing.Smoke.ConfigurationTests.Tests;
